@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get real property</description>
+        <ih_action>false</ih_action>
+        <internal_name>get_real_property</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get real property</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 14:03:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71e43fd1971181100954f8b3f153afd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get real property</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_693246_needit_sp">f0d36bdd979d41100954f8b3f153afea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">f0d36bdd979d41100954f8b3f153afea</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_71e43fd1971181100954f8b3f153afd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 14:03:57</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=71e43fd1971181100954f8b3f153afd1"/>
+    <sys_variable_value action="delete_multiple" query="document_key=71e43fd1971181100954f8b3f153afd1"/>
+</record_update>
